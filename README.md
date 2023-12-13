@@ -5,7 +5,7 @@
 
 
 
-<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=iku52&theme=midnight-white&hide_border=true" title="Github Contributions"/>
+<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=iku52&theme=midnight-purple&hide_border=true" title="Github Contributions"/>
 
 <img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iku52&theme=midnight-purple&show_icons=true&hide_border=true" title="Iku52 GitHub Stats"/>
 
